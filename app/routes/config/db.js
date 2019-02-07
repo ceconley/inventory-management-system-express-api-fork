@@ -1,7 +1,7 @@
 'use strict'
 
 // creating a base name for the mongodb
-const mongooseBaseName = 'inventory-management-system-express-api'
+const mongooseBaseName = 'inventory-management-system-express-api-fork'
 
 // create the mongodb uri for development and test
 const database = {

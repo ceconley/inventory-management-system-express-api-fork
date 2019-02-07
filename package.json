@@ -1,5 +1,5 @@
 {
-  "name": "inventory-management-system-express-api",
+  "name": "inventory-management-system-express-api-fork",
   "engines": {
     "node": "8.9.1",
     "npm": "6.4.1"
@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ceconley/inventory-management-system-express-api.git"
+    "url": "git+https://github.com/ceconley/inventory-management-system-express-api-fork.git"
   },
   "bugs": {
-    "url": "https://github.com/ceconley/inventory-management-system-express-api/issues"
+    "url": "https://github.com/ceconley/inventory-management-system-express-api-fork/issues"
   },
-  "homepage": "https://github.com/ceconley/inventory-management-system-express-api#readme"
+  "homepage": "https://github.com/ceconley/inventory-management-system-express-api-fork#readme"
 }
